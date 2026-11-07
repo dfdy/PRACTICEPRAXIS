@@ -1,6 +1,6 @@
 # PRACTICE PRAXIS!
 
-### *A polemic against the politics of waiting*
+*A polemic against the politics of waiting*
 
 By **Diaan Mynhardt**
 
@@ -192,7 +192,8 @@ And when your practice reproduces the very world you intended to transform, chan
 
 **For emancipation is not something we achieve before we can begin to live freely. It is something we struggle to constitute through the very practice of freedom.**
 
-Make the thesis explicitly materialDefine the two praxis formulations
+---
+
 
 Originally published on 7 November 2026: [Practice Praxis!](https://knwldge.com/blog/2026/11/07/practice-praxis/).
 
