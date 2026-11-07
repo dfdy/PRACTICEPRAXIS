@@ -4,6 +4,8 @@
 
 By **Diaan Mynhardt**
 
+Read the [addendum: Domination and Exploitation](ADDNEDUM.md).
+
 We have become remarkably accomplished at discussing what ought to be done.
 
 We convene. We consult. We deliberate. We develop frameworks, establish committees, draft principles, and formulate strategies. We speak of participation, empowerment, transformation, and emancipation. We produce increasingly sophisticated accounts of why the world must change.
