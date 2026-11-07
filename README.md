@@ -4,7 +4,7 @@
 
 By **Diaan Mynhardt**
 
-Read the [addendum: Domination and Exploitation](ADDNEDUM.md).
+Read the [addendum: Domination and Exploitation](ADDENDUM.md).
 
 We have become remarkably accomplished at discussing what ought to be done.
 
